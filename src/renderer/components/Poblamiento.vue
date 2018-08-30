@@ -30,11 +30,11 @@ export default {
       content_1: `<h2>Poblamiento aborigen de Cuba</h2>
                 <p>El hombre no pobló a Cuba de una sola oleada, lo hizo en diferentes momentos y desde diferentes áreas de la cuenca del Caribe. Se acepta que este poblamiento ocurrió hace alrededor de 4 mil años; en ello debieron influir elementos geográficos tales como los grandes ríos que desembocan en estos mares, la dirección de las corrientes marinas y los vientos, los huracanes y el arco de Las Antillas. </p>
                 <p>Entre estos ríos se puede mencionar al Orinoco, cuyo volumen provoca un movimiento de hasta 30 km en el océano, propiciando la navegación hacia las islas de Las Antillas Menores. Las corrientes marinas de superficie, por su parte, desarrollan velocidades hasta superiores a los 30 Km al día y por la dirección de las mismas, se considera la posibilidad de que la navegación era beneficiada desde Suramérica hacia Las Antillas, apoyada por la dirección de los vientos que predominan la mayor parte del año del noreste al suroeste. A esto se añade la dirección de los huracanes y la cadena de islas de diferentes tamaños, que se extiende desde el norte de la actual Venezuela en dirección a Cuba. </p>`,
-        content_2: `<p class="img-desc">Corrientes marinas actuales en la región del Caribe durante el verano</p>`,
-        content_3: `<p class="img-desc">Corrientes marinas actuales en la región del Caribe durante el invierno</p>
+        content_2: `<p class="cp5g">Corrientes marinas actuales en la región del Caribe durante el verano</p>`,
+        content_3: `<p class="cp5g">Corrientes marinas actuales en la región del Caribe durante el invierno</p>
                 <h2>Vías de las migraciones aborígenes en dirección a Cuba</h2>`,
         content_4: `
-<p class="img-desc">Plano con las vías de las migraciones aborígenes hacia Cuba</p>
+<p class="cp5g">Plano con las vías de las migraciones aborígenes hacia Cuba</p>
 <p>Está demostrado que el poblamiento de América ocurrió hace aproximadamente 50 mil ó 60 mil años, y existe consenso sobre la presencia humana en los territorios que conforman nuestro país, desde hace al menos  4 mil años,  lo que demuestra que el arribo de los aborígenes fue mucho antes de la llegada de los conquistadores españoles.</p>
 <p>Para ese entonces el paisaje geográfico era diferente al de nuestros días. Existían grandes extensiones de bosques, en los que vivían determinadas especies de plantas y animales que el hombre utilizaba como alimentos y para suplir otras necesidades. Este, se valía además del mar y de las costas, como vía de comunicación y como fuente de obtención de valiosos recursos para su subsistencia.</p>
 <p>Los límites actuales de países, estados, provincias y municipios que se utilizan aquí, no se corresponden con las estructuras territoriales del pasado aborigen, pues no existían en aquella época.</p>
