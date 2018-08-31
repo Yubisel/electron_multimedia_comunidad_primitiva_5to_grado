@@ -82,6 +82,7 @@
   .inner-page h3{
     overflow: auto;
     color: #8E4B02;
+    margin-bottom: 10px;
   }
   .inner-page ul{
     list-style: none;
@@ -142,6 +143,10 @@
     ul.content-switcher li a.is-active{
       background: #E21F00;
     }
+    .glosario span{
+      font-weight: bold;
+      font-style: italic;
+}
     /*------------------------------------- scrollbar style -----------------------------------------*/
 .my-scrollbar {
     width: 100%;

@@ -28,10 +28,4 @@ export default{
 }
 </script>
 <style lang="scss">
-    .glosario{
-        span{
-            font-weight: bold;
-            font-style: italic;
-        }
-    }
 </style>

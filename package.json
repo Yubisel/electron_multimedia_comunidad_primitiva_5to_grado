@@ -18,11 +18,13 @@
     "pack": "npm run pack:main && npm run pack:renderer",
     "pack:main": "cross-env NODE_ENV=production webpack --progress --colors --config .electron-vue/webpack.main.config.js",
     "pack:renderer": "cross-env NODE_ENV=production webpack --progress --colors --config .electron-vue/webpack.renderer.config.js",
-    "postinstall": ""
+    "postinstall": "",
+    "prod:win64": "node tasks/electron-winstaller.js"
   },
   "dependencies": {
     "axios": "^0.16.1",
     "bp-vuejs-dropdown": "^2.1.1",
+    "electron-winstaller": "^2.6.4",
     "node-sass": "^4.9.3",
     "sass-loader": "^7.1.0",
     "v-gallery": "^1.2.4",
