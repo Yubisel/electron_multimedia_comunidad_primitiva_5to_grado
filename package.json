@@ -22,7 +22,7 @@
     "prod:win64": "node tasks/electron-winstaller.js"
   },
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^0.21.1",
     "bp-vuejs-dropdown": "^2.1.1",
     "electron-winstaller": "^2.6.4",
     "node-sass": "^4.9.3",
